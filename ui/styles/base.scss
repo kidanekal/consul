@@ -47,6 +47,11 @@ a {
     }
 }
 
+/* set the textarea font to monospace, for a better code like format */
+textarea {
+  font-family: monospace;
+}
+
 .buffer-small {
   height: 50px;
 }
